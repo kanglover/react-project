@@ -1,0 +1,10 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "react study and exercise project",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "kanglover",
+  "license": "ISC"
+}
