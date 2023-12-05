@@ -12,5 +12,6 @@
 │   └── redux-demo  // redux demo 项目
 ├── example-project
 │   ├── GitHubPopular // 关于 GitHub 热门项目的  react-naive 练习项目
+│   ├── react-admin // react + ts + vite + antd 练习项目
 │   └── takenote // takenote react 项目
 ```
